@@ -7,7 +7,7 @@
 
 ## Objetivos:
 
-* Aprender y comprender el funcionamiento de React.
+* Aprender y comprender el funcionamiento de React, SPA, JSX y Webpack.
 
 ## Consideraciones:
 
