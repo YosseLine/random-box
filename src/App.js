@@ -29,10 +29,10 @@ class RandomBox extends React.Component {
 
 class App extends Component {
   render() {
-    const Array = ['Un amigo es quien ríe nuestra risa y llora nuestras lágrimas',
-    'La mejor forma de conseguir un amigo es serlo',
-    'Los amigos se convierten con frecuencia en ladrones de nuestro tiempo',
-    'Un amigo es una persona con la que se puede pensar en voz alta'];
+    const Array = ["That the world is ugly. But you're beautiful to me. Well are you thinking of me now (now)",
+    "Solo solo day. Solo solo day girl. Solo solo day girl. I feel better today. Do not touch me. Solo solo day. Solo solo day. Solo solo day boy. Solo solo day boy. Agreeable. Solo solo solo day. Solo solo solo day",
+    "What's the worst thing I can say. Things are better if I stay. So long and goodnight. So long and goodnight",
+    "We'll carry on, we'll carry on. And though you're dead and gone, believe me. Your memory will carry onWe'll carry on. And in my heart I can't contain itThe anthem won't explain it"];
 
     let number = Math.random();
     number = number * Array.length;

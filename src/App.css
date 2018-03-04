@@ -2,9 +2,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 60vh;
 }
 .Style-box{
   padding: 20px;
   border: 3px dashed rgb(110,38,139);
   border-radius: 10px;
+  width: 70%;
 }
